@@ -5,8 +5,7 @@ title: Home
 
  <!-- ======= About Section ======= -->
 <section id="about" class="about">
-      <div class="container">
-
+<div class="container">
 <div class="row">
 <div class="col-lg-6 order-1 order-lg-2" >
             <img src="assets/image/about.jpg" alt=" About us" width="80%">
@@ -30,17 +29,17 @@ title: Home
     </section><!-- End About Section -->
 
  <!-- ======= Popular Courses Section ======= -->
-   <section id="popular-courses" class="courses">
+   <section  class="courses">
       <div class="container">
 
    <div class="section-title">
-          <h2>Courses</h2>
+          <h2 class="fs-1">Courses</h2>
           <p>Subject Offered</p>
         </div>
 
    <div class="row">
 
-   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+   <div class="col-lg-3 col-md-6 d-flex align-items-stretch shadow-sm p-4">
             <div class="course-item">
               <img src="assets/image/physics.jpg" width="70%">
               <div class="course-content">
@@ -56,7 +55,7 @@ title: Home
 </div> <!-- End Course Item-->
 
   <!--  add new-->
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch shadow-sm p-4">
             <div class="course-item">
               <img src="assets/image/chem.jpg" width="70%" >
               <div class="course-content">
@@ -72,7 +71,7 @@ title: Home
           </div> <!-- End Course Item-->
           <!-- close add new-->
 
- <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+ <div class="col-lg-3 col-md-6 d-flex align-items-stretch shadow-sm p-4">
             <div class="course-item">
               <img src="assets/image/math.jpg" width="70%">
               <div class="course-content">
@@ -87,7 +86,7 @@ title: Home
             </div>
           </div> <!-- End Course Item-->
 
-  <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+  <div class="col-lg-3 col-md-6 d-flex align-items-stretch shadow-sm p-4">
             <div class="course-item">
               <img src="assets/image/bio.jpg" width="70%">
               <div class="course-content">
