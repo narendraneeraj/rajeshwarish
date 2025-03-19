@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About page
+title: About - Rajeshwari's Coaching Classes in Gurgaon | Expert Tutoring for CBSE, ICSE & IB
 permalink: /about-us/
+description: "Learn from the best at Rajeshwari's Coaching Classes in Gurgaon. Expert tutors for CBSE, ICSE, and IB students, providing personalized guidance in Physics, Chemistry, Math, and Biology. Join us for a smarter learning experience!"
 ---
 
 <div class="container-fluid half-page">

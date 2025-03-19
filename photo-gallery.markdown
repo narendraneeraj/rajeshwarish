@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About
+title: Photo Gallery - Rajeshwari’s Coaching Classes in Gurgaon | Learning in Action
 permalink: /photo-gallary/
+description: "Explore our photo gallery to see Rajeshwari’s Coaching Classes in action! View images of our interactive sessions, expert-led coaching, student activities, and academic achievements in Gurgaon."
 ---
 
  <!-- ======= Breadcrumbs ======= -->

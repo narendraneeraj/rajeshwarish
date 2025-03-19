@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Rajeshwaris Coaching classes - The Best Home tutor in Gurugram
+description: "Elevate your CBSE board exam performance with our specialized coaching center. Our expert tutors and customized curriculum ensure top-notch preparation for success in CBSE exams."
 ---
 
  <!-- ======= About Section ======= -->

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About
+title: Contact US | Rajeshwari's Coaching Classes in Gurgaon
 permalink: /contact/
+description: "Have questions? Contact Rajeshwari’s Coaching Classes in Gurgaon for expert tutoring in CBSE, ICSE, and IB subjects. Call us, visit our center, or send a message to get started!"
 ---
 
  <!-- ======= Breadcrumbs ======= -->
