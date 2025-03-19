@@ -7,8 +7,8 @@ description: "Learn from the best at Rajeshwari's Coaching Classes in Gurgaon. E
 
 <div class="container-fluid half-page">
 <div>
-              <h1 style="color: darkblue; font-size: 60px;" >Fun, secure and <br>awesome learning!</h1>
-               <h2>I’m Rajeshwari, I touch the future, I teach</h2>
+<h1 style="color: darkblue; font-size: 60px;" >Fun, secure and <br>awesome learning!</h1>
+   <h2>I’m Rajeshwari, I touch the future, I teach</h2>
             <button class="btn btn-primary mt-3 btn-lg">Let's Start</button>
         </div>
 </div>
